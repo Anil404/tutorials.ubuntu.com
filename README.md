@@ -1,8 +1,8 @@
-# tutorials.ubuntu.com
+# Tutorials.Ubuntu.com
 
 [![CircleCI build status](https://circleci.com/gh/canonical-web-and-design/tutorials.ubuntu.com.svg?style=shield)](https://circleci.com/gh/canonical-web-and-design/tutorials.ubuntu.com) [![Code coverage](https://codecov.io/gh/canonical-web-and-design/tutorials.ubuntu.com/branch/master/graph/badge.svg)](https://codecov.io/gh/canonical-web-and-design/tutorials.ubuntu.com)
 
-**tutorials.ubuntu.com is moving. All tutorial content has been migrated to https://discourse.ubuntu.com/c/tutorials in preparation for this move, and any updates to tutorials should now be made over there**
+**Tutorials.Ubuntu.com is moving. All tutorial content has been migrated to https://discourse.ubuntu.com/c/tutorials in preparation for this move, and any updates to tutorials should now be made over there**
 
 ---
 
